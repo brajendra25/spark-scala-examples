@@ -1,0 +1,3 @@
+This file is move from local to hdfs by using Scala program.
+My first program in Scala with hadoop connectivity.
+By default, GitHub publishes the package to an existing repository with the same name as the package.
